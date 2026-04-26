@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+
+data/raw/
+data/interim/
+artifacts/checkpoints/
+*.pth
+*.pt
+
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
